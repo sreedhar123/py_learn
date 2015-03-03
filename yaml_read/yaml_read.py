@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 print("Hello World.\n");
-print ("testing \n");
+print ("This world is cruel. \n");
